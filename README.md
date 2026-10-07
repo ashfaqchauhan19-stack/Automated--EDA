@@ -68,7 +68,7 @@ I'm continuing to improve the tool by making the AI analysis more automated and 
 
 👉 Add your Streamlit deployment link here:
 
-`https://your-app-name.streamlit.app`
+`https://automated--eda-00.streamlit.app/`
 
 ## 👨‍💻 Built With
 
